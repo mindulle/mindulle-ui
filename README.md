@@ -1,3 +1,4 @@
+> 타입스크립트 버전으로 다시 세팅하기
 # rollup-starter-lib
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/rollup/rollup-starter-lib.svg)](https://greenkeeper.io/)
